@@ -6,11 +6,11 @@ Visit the [https://mvic.sos.state.mi.us](https://mvic.sos.state.mi.us) and look 
 
 ![](https://cdn.zappy.app/db1061caf03e095ebe3c58a3face17d8.png)
 
-Make sure to enter your full legal name and the ZIP code of your last registered address. When you submit that form, you should see something like this:
+Make sure to enter your **full legal name** and the ZIP code of your last registered address. When you submit that form, you should see something like this:
 
 ![](https://cdn.zappy.app/3436cb20052b65bea83fe0c5efe4151f.png)
 
-If your registration page indicates that you're on the "permanent absentee voter list" then congratulations, you'll all set!
+If your registration page indicates that you're on the **"permanent absentee voter list"** then congratulations, you'll all set!
 
 ## 2. Fill out the absent voter ballot application
 
@@ -27,7 +27,7 @@ Find your local clerk's email address here:
 
 ![](https://cdn.zappy.app/f44efe0d9ffe0df8e9fb02f2713735c3.png)
 
-Attach your signed application to an email similar to the following:
+Attach your **signed application** to an email similar to the following:
 
 ```
 Dear City Clerk,
