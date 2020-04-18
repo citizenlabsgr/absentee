@@ -32,7 +32,8 @@ Attach your signed application to an email similar to the following:
 ```
 Dear City Clerk,
 
-I would like to receive an absentee ballot for all future Michigan elections. I have attached the completed form I downloaded from the MI SOS website (https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html).
+I would like to receive an absentee ballot for all future Michigan elections.
+I have attached the completed application I downloaded from the MI SOS website.
 
 Thanks,
 <Your Name>
