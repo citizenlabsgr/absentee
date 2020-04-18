@@ -2,7 +2,7 @@
 
 Maybe you've already requested to receive your ballots by mail. Let's find out!
 
-Visit https://mvic.sos.state.mi.us and look up your voter registration status:
+Visit the [https://mvic.sos.state.mi.us](https://mvic.sos.state.mi.us) and look up your voter registration status:
 
 ![](https://cdn.zappy.app/db1061caf03e095ebe3c58a3face17d8.png)
 
@@ -16,14 +16,14 @@ If your registration page indicates that you're on the "permanent absentee voter
 
 Due to the passage of the statewide ballot [proposal 18-3](https://ballotpedia.org/Michigan_Proposal_3,_Voting_Policies_in_State_Constitution_Initiative_(2018)), all registered voters in Michigan can now request an absent voter ballot without needing to provide a reason.
 
-A fillable PDF is available for download: https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm
+A fillable PDF is available for download: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm)
 
 Either print, complete, and scan your computed application is your PDF software to insert a digital signature.
 
 ## 3. Email the signed application to your clerk
 
 Find your local clerk's email address here:
-https://mvic.sos.state.mi.us/clerk
+[https://mvic.sos.state.mi.us/clerk](https://mvic.sos.state.mi.us/clerk)
 
 ![](https://cdn.zappy.app/f44efe0d9ffe0df8e9fb02f2713735c3.png)
 
