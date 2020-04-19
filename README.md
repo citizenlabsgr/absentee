@@ -29,15 +29,14 @@ Find your local clerk's email address here:
 
 Attach your **signed application** to an email similar to the following:
 
-```
-Dear City Clerk,
+> Dear City Clerk,
+>
+> I would like to receive an absentee ballot for all future Michigan elections.
+> Attached is my completed application I downloaded from the MI SOS website.
+>
+> Thanks,
+> <Your Name>
 
-I would like to receive an absentee ballot for all future Michigan elections.
-I have attached the completed application I downloaded from the MI SOS website.
-
-Thanks,
-<Your Name>
-```
 
 They should reply to your email within a few days confirming it was received.
 
