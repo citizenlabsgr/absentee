@@ -44,11 +44,11 @@ They should reply to your email within a few days confirming it was received.
 
 After your local clerk receives your request to vote by mail, it may take a few more days for that fact to be reflected on your registration status.
 
-Repeat [step 1]("#top") every couple days until it shows that you've been added to the permanent absentee voter list.
+Repeat [step 1](#top) every couple days until it shows that you've been added to the permanent absentee voter list.
 
 ## 5. Wait for your absentee ballot
 
-As long as you have completed these steps no later than 5 p.m. the Friday before an election, your clerk will mail you an absentee ballot to fill out and mail. Repeat [step 1]("#top") to see find the date of the next election in your precinct.
+As long as you have completed these steps no later than 5 p.m. the Friday before an election, your clerk will mail you an absentee ballot to fill out and mail. Repeat [step 1](#top) to see find the date of the next election in your precinct.
 
 You have until 8 p.m. to return your **signed return envelope** to your clerk's office. Additional information can be found here: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html)
 
