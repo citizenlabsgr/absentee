@@ -25,7 +25,7 @@ Either print, complete, and scan your computed application or use PDF software t
 Find your local clerk's email address here:
 [https://mvic.sos.state.mi.us/clerk](https://mvic.sos.state.mi.us/clerk)
 
-![Find Your Clerk](images/clerk.png)
+![Find Your Clerk](images/mvic-clerk.png)
 
 Attach your **signed application** to an email similar to the following:
 
