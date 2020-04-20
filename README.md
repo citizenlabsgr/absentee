@@ -34,8 +34,8 @@ Attach your **signed application** to an email similar to the following:
 > I would like to receive an absentee ballot for all future Michigan elections.
 > Attached is my completed application I downloaded from the MI SOS website.
 >
-> Thanks,
-> <Your Name>
+> Thanks,<br>
+> \<Your Name>
 
 
 They should reply to your email within a few days confirming it was received.
