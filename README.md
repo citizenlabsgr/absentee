@@ -44,7 +44,7 @@ They should reply to your email within a few days confirming it was received.
 
 After your local clerk receives your request to vote by mail, it may take a few more days for that fact to be reflected on your registration status.
 
-Repeat [step 1](#top) every couple days until it shows that you've been added to the permanent absentee voter list:
+Repeat [step 1](#top) every few days until it shows that you've been added to the permanent absentee voter list:
 
 ![You Are Registered](images/mvic-registration.png)
 
