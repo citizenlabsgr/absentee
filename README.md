@@ -22,7 +22,7 @@ This can be done using the online form: [https://mvic.sos.state.mi.us/avapplicat
 
 Once completed, you can skip to step 3.
 
-## 2b. Or, email the absent voter ballot application to your clerk
+## 2b. Or email the application to your clerk
 
 Alternatively, a fillable PDF is available for download: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm)
 
