@@ -12,17 +12,21 @@ Make sure to enter your **full legal name** and the ZIP code of your last regist
 
 If your registration page indicates that you're on the **"permanent absentee voter list"** then congratulations, you'll all set!
 
-## 2. Fill out the absent voter ballot application
+## 2a. Complete the online absent voter ballot application
 
 Due to the passage of the statewide ballot [proposal 18-3](https://ballotpedia.org/Michigan_Proposal_3,_Voting_Policies_in_State_Constitution_Initiative_(2018)), all registered voters in Michigan can now request an absent voter ballot without needing to provide a reason.
 
-A fillable PDF is available for download: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm)
+This can be done using the online form: https://mvic.sos.state.mi.us/avapplication
 
-Either print, complete, and scan your computed application or use PDF software to insert a digital signature.
+![Online Application](images/mvic-application.png)
 
-## 3. Email the signed application to your clerk
+Once completed, you can skip to step 3.
 
-Find your local clerk's email address here:
+## 2b. Or, email the absent voter ballot application to your clerk
+
+Alternatively, a fillable PDF is available for download: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm)
+
+Either print, complete, and scan your computed application or use PDF software to insert a digital signature. Then, find your local clerk's email address here:
 [https://mvic.sos.state.mi.us/clerk](https://mvic.sos.state.mi.us/clerk)
 
 ![Find Your Clerk](images/mvic-clerk.png)
@@ -37,10 +41,9 @@ Attach your **signed application** to an email similar to the following:
 > Thanks,<br>
 > \<Your Name>
 
-
 They should reply to your email within a few days confirming it was received.
 
-## 4. Confirm your absentee status
+## 3. Confirm your absentee status
 
 After your local clerk receives your request to vote by mail, it may take a few more days for that fact to be reflected on your registration status.
 
