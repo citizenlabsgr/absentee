@@ -16,7 +16,7 @@ If your registration page indicates that you're on the **"permanent absentee vot
 
 Due to the passage of the statewide ballot [proposal 18-3](https://ballotpedia.org/Michigan_Proposal_3,_Voting_Policies_in_State_Constitution_Initiative_(2018)), all registered voters in Michigan can now request an absent voter ballot without needing to provide a reason.
 
-This can be done using the online form: https://mvic.sos.state.mi.us/avapplication
+This can be done using the online form: [https://mvic.sos.state.mi.us/avapplication](https://mvic.sos.state.mi.us/avapplication)
 
 ![Online Application](images/mvic-application.png)
 
