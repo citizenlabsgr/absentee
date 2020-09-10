@@ -57,7 +57,7 @@ As long as you have completed these steps no later than 5 p.m. the Friday before
 
 ![Absentee Ballot](images/ballot.jpg)
 
-Carefully sign the return envelope. Your signature should match your driver's license. You have until 8 p.m. on election day to return the ballot to your clerk's office via mail or drop box. To ensure your ballot is counted, return it as soon as possible!
+Carefully sign the return envelope. Your signature should match your driver's license. You have until 8 p.m. on election day to return the ballot to your clerk's office via mail or [drop box](https://www.michigan.gov/documents/sos/Ballot_Dropbox_Locations_697191_7.pdf). To ensure your ballot is counted, return it as soon as possible!
 
 You can track the status of your ballot using the same form in [step 1](#top):
 
