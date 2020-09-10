@@ -1,3 +1,5 @@
+![Absentee Ballot](images/ballot.jpg)
+
 ## 1. Check for absentee voting status
 
 Maybe you've already requested to receive your ballots by mail. Let's find out!
@@ -55,7 +57,7 @@ Resubmit the form in [step 1](#top) every few days until it shows that your appl
 
 As long as you have completed these steps no later than 5 p.m. the Friday before an election, your clerk will mail you an absentee ballot to fill out and return:
 
-![Absentee Ballot](images/ballot.jpg)
+![Absentee Envelope](images/envelope.jpg)
 
 Carefully sign the return envelope. Your signature should match your driver's license. You have until 8 p.m. on election day to return the ballot to your clerk's office via mail or [drop box](https://www.michigan.gov/documents/sos/Ballot_Dropbox_Locations_697191_7.pdf). To ensure your ballot is counted, return it as soon as possible!
 
