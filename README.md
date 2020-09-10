@@ -2,15 +2,15 @@
 
 Maybe you've already requested to receive your ballots by mail. Let's find out!
 
-Visit the [https://mvic.sos.state.mi.us](https://mvic.sos.state.mi.us) and look up your voter registration status:
+Visit the [https://mvic.sos.state.mi.us/Voter/Index](https://mvic.sos.state.mi.us/Voter/Index) and look up your voter registration status:
 
-![Are You Registered](images/mvic.png)
+![Are You Registered](images/mvic-index.png)
 
 Make sure to enter your **full legal name** and the ZIP code of your last registered address. When you submit that form, you should see something like this:
 
 ![You Are Registered](images/mvic-registration.png)
 
-If your registration page indicates that you're on the **"permanent absentee voter list"** then congratulations, you'll all set!
+If your registration page indicates that your absentee application has been received, then congratulations, you're all set! You can skip to [step 5](#bottom).
 
 ## 2a. Complete the online absent voter ballot application
 
@@ -47,16 +47,22 @@ They should reply to your email within a few days confirming it was received.
 
 After your local clerk receives your request to vote by mail, it may take a few more days for that fact to be reflected on your registration status.
 
-Repeat [step 1](#top) every few days until it shows that you've been added to the permanent absentee voter list:
+Resubmit the form in [step 1](#top) every few days until it shows that your application has been received:
 
 ![You Are Registered](images/mvic-registration.png)
 
 ## 5. Wait for your absentee ballot
 
-As long as you have completed these steps no later than 5 p.m. the Friday before an election, your clerk will mail you an absentee ballot to fill out and mail. Repeat [step 1](#top) to see find the date of the next election in your precinct.
+As long as you have completed these steps no later than 5 p.m. the Friday before an election, your clerk will mail you an absentee ballot to fill out and return:
 
 ![Absentee Ballot](images/ballot.jpg)
 
-You have until 8 p.m. to return your **signed return envelope** to your clerk's office. Additional information can be found here: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html)
+You have until 8 p.m. on election day to return your **signed return envelope** to your clerk's office via mail or drop box. To ensure your ballot is counted, return it as soon as possible!
+
+You can track the status of your ballot using the same form in [step 1](#top):
+
+![Absentee Ballot](images/mvic-ballot.png)
+
+Additional information can be found here: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html)
 
 Stay safe and happy voting!
