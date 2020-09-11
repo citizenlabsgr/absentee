@@ -12,7 +12,7 @@ Make sure to enter your **full legal name** and the ZIP code of your last regist
 
 ![You Are Registered](images/mvic-registration.png)
 
-If your registration page indicates that your absentee application has been received, then congratulations, you're all set! You can skip to [step 5](#bottom).
+If your registration page indicates that your absentee application has been received, then congratulations, you're all set! You can skip to step 5.
 
 ## 2a. Complete the online absent voter ballot application
 
