@@ -61,6 +61,8 @@ As long as you have completed these steps no later than 5 p.m. the Friday before
 
 Carefully sign the return envelope. Your signature should match your driver's license. You have until 8 p.m. on election day to return the ballot to your clerk's office via mail or [drop box](https://mvic.sos.state.mi.us/Voter/Index). To ensure your ballot is counted, return it as soon as possible!
 
+> ⚠️ If there are fewer than two weeks until an election, **do not** rely on the mail for your ballot to arrive in time. Use a drop box or deliver it to your clerk's office in person!
+
 You can track the status of your ballot using the same form in [step 1](#top):
 
 ![Absentee Ballot](images/mvic-ballot.png)
