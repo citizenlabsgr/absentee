@@ -29,7 +29,7 @@ Once completed, you can skip to step 3.
 Alternatively, a fillable PDF is available for download: [https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm](https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.htm)
 
 Either print, complete, and scan your completed application or use PDF software to insert a digital signature. Then, find your local clerk's email address here:
-[https://mvic.sos.state.mi.us/clerk](https://mvic.sos.state.mi.us/clerk)
+[https://mvic.sos.state.mi.us/Voter/Index/#yourclerk](https://mvic.sos.state.mi.us/Voter/Index/#yourclerk)
 
 ![Find Your Clerk](images/mvic-clerk.png)
 
